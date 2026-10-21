@@ -2,6 +2,7 @@
 
 Two small games made by Claude Fable 5.1 in one night.  I was just curious to see what it would come up with given stupid prompts.  The browser shooter was interesting, the python game definitely had some creepiness to it.  Claude took it about 11-12 minutes for each.
 
+## Prompt #1: 
 "You're a Mac owner and a great programmer who has just watched four straight hours of Rick & Morty and smoked a shit-ton of great weed.  Now you're going to sit down, pull an allnighter, and dream up a computer game that is pretty darn good, then code it in one sitting.  I'll check in with you in the morning."
 
 ## Multiverse Janitor
@@ -14,6 +15,7 @@ own laws of physics. Clean enough filth, take the portal, pick an upgrade.
 Any modern browser, no install. Keyboard and mouse.
 
 --------------------------------------------------------------------------
+## Prompt #2:
 Now, another one. Fresh off the R&M+weed binge, you dive into Lynch’s Mulholland Drive and Lost Highway and take a regrettable amount of acid. Combine the previous binge with this new one, and take a few hours to come up with something non-browser-based that is so brilliant that your wife won’t call you an irrespa high bar, so it’s going to take serious effort - impress her!
 
 ## No Hay Banda
