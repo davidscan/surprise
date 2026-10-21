@@ -1,0 +1,4 @@
+# game saves and generated audio
+no-hay-banda/save/
+__pycache__/
+.DS_Store
