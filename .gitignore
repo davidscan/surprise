@@ -2,3 +2,6 @@
 no-hay-banda/save/
 __pycache__/
 .DS_Store
+
+# session notes, never published
+*.local.md
