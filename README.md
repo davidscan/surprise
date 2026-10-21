@@ -18,6 +18,8 @@ Any modern browser, no install. Keyboard and mouse.
 ## Prompt #2:
 "Now, another one. Fresh off the R&M+weed binge, you dive into Lynch’s Mulholland Drive and Lost Highway and take a regrettable amount of acid. Combine the previous binge with this new one, and take a few hours to come up with something non-browser-based that is so brilliant that your wife won’t call you an irresponsible train wreck. It's a high bar, so it’s going to take serious effort - impress her!"
 
+A followup prompt was given to improve Linux/Windows compatibility and fix a cosmetic issue.
+
 ## No Hay Banda
 
 A terminal picture in three acts. It remembers you between runs, and what
