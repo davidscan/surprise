@@ -28,4 +28,6 @@ Windows details are in the folder's README.
 
 ## License
 
-MIT. See LICENSE.
+PolyForm Noncommercial 1.0.0. Play it, share it, change it, build on it.
+Don't sell it. If you have a commercial use in mind, ask; the answer is
+probably yes. See LICENSE.
